@@ -9,4 +9,9 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {"rebelot/kanagawa.nvim", as = "kanagawa"},
+  {"nyoom-engineering/nyoom.nvim", as = "nyoom"},
+  {"bluz71/vim-nightfly-colors", as = "nightfly"},
+  {"bluz71/vim-moonfly-colors", as = "moonfly"},
+  {"uloco/bluloco.nvim", as = "bluloco"},
 }

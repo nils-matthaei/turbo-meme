@@ -6,7 +6,6 @@ return {
       require("onedark").setup {
         stlye = "darker",
       }
-      require("onedark").load()
     end,
   },
 }
